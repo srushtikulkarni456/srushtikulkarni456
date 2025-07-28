@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Srushti
+2nd-year Computer Science Student | Learning Web Development + Machine Learning
+Building full-stack projects | Exploring AI technologies
 
-<!--
-**srushtikulkarni456/srushtikulkarni456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech-Stack
+- Languages : Python, Vanilla JavaScript
+- Front-end : HTML, CSS, React
+- Backend : Flask, Node.js(basic)
+- Databases : MongoDB, MySQL
+- ML/AI : Pandas, NumPy, Scikit-learn, Jupyter
+- Tools : Git, Git-hub, VS Code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+LinkedIn : https://www.linkedin.com/in/srushtikulkarni05
+G-mail : srushtikulkarni528@gmail.com
