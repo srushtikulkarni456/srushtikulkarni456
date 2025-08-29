@@ -5,7 +5,7 @@ Building full-stack projects | Exploring AI technologies
 ### Tech-Stack
 - Languages : Python, Vanilla JavaScript
 - Front-end : HTML, CSS, React
-- Backend : Flask, Node.js(basic)
+- Backend : Node.js, ExpressJs.
 - Databases : MongoDB, MySQL
 - ML/AI : Pandas, NumPy, Scikit-learn, Jupyter
 - Tools : Git, Git-hub, VS Code.
